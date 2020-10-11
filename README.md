@@ -9,3 +9,15 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request. Add title as filename and question in comment when you make pull request.
 </p>
 
+
+# make-a-pull-request
+
+
+## Steps
+
+### 1. Fork this repository
+### 2. Clone the fork to your PC
+### 3. Add your page
+### 4. Create a Pull Request
+### 5. Star this repository
+### 6. Congratulations! You've successfully made a Pull Request!
