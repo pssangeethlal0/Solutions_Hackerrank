@@ -17,7 +17,7 @@
 
 ### 1. Fork this repository
 ### 2. Clone the fork to your PC
-### 3. Add your page
+### 3. Add your solutions
 ### 4. Create a Pull Request
 ### 5. Star this repository
 ### 6. Congratulations! You've successfully made a Pull Request!
