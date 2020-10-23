@@ -1,0 +1,28 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <set>
+#include <algorithm>
+using namespace std;
+
+
+int main() { long int n,i;
+cin>>n;
+    set<long long int>s;
+    for(i=0;i<n;i++)
+    {long long int x;
+    int y;
+    cin>>y>>x;
+    if(y==1)
+    s.insert(x);
+   else if(y==2)
+    s.erase(x);
+   else if(y==3)
+  { set<long long int>::iterator itr=s.find(x);
+   {if (itr != s.end())
+   {cout<<"Yes"<<endl;}
+   else
+   {cout<<"No"<<endl;} }}}   
+    return 0;
+}
